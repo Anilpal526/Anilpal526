@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **palanil2000pal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/anil-pal-121b42280/">linkdin</a></h3>
 <p align="left">
 </p>
 
